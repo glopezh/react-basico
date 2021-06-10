@@ -10,7 +10,7 @@ Guía:
 -   Utilizar el evento onClick del círculo para ejecutar la función que modifica el state.
 -   Condicionar el estilo del círculo al valor del state
 
-![circulos(circulo.png)
+![circulos](circulo.png)
 
 ## Ejercicio 2:
 Crear dos botones y un campo <input> como en la figura.
@@ -20,10 +20,10 @@ Al clicar sobre el boton “-” debe restar una unidad.
 Limitar los valores posibles a números enteros de 0 a 10.
 Nota: el campo <input> no debe ser editable directamente por el usuario
 
-![numeros(numero.png)
+![numeros](numero.png)
 
 ## Ejercicio 3: Thumbs up/down
 
 Utilizando la librería fontAwesome mostrar un icono que cambie de icon1 a icon2 al pulsar con el ratón.
 
-![manitos(manito.png)
+![manitos](manito.png)
